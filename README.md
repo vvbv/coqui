@@ -19,7 +19,7 @@ EJ: Print
 ---
 **Configuración inicial**: Cada documento debe ser ser inicializado, para este caso, de la siguiente forma.
 ```
-[self scripts="helloWorld, extraTools"][/self]
+[self scripts="helloWorld,extraTools"][/self]
 ```
 **Variables**: Se pueden definir variables de la siguiente manera.
 ```
