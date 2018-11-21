@@ -1,4 +1,4 @@
-[self scripts="helloWorld,extraTools"][/self]  
+[self scripts:"helloWorld,extraTools" server:"https://localhost:8080/coqui.php"][/self]  
 [var:softwareName]"Coqui"[/var]
 21-11-2018 13:30  
 ***
